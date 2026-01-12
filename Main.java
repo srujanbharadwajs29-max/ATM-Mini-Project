@@ -6,8 +6,6 @@ public class Main {
         ATM atm = new ATM();
 
         // Sample accounts
-        atm.addAccount(new Account(101, "Srujan", 1234, 5000));
-        atm.addAccount(new Account(102, "Ravi", 4321, 3000));
 
         System.out.println("------ Welcome to ATM ------");
 
